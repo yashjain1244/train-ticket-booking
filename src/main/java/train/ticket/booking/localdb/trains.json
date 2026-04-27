@@ -1,0 +1,44 @@
+[
+  {
+    "train_id" : "bca",
+    "train_no" : 2026,
+    "seats" : [
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0]
+    ],
+    "station_times" : {
+      "Ahmednagar": "13:30:00",
+      "Shirur": "15:00:00",
+      "Pune": "16:30:00"
+    },
+    "stations" : [
+      "Ahmednagar",
+      "Shirur",
+      "Pune"
+    ]
+  },
+  {
+    "train_id" : "bsc",
+    "train_no" : 2025,
+    "seats" : [
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0]
+    ],
+    "station_times" : {
+      "Ahmednagar": "15:30:00",
+      "Shirur": "17:00:00",
+      "Pune": "18:30:00"
+    },
+    "stations" : [
+      "Ahmednagar",
+      "Shirur",
+      "Pune"
+    ]
+  }
+]

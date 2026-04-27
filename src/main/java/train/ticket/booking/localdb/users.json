@@ -1,0 +1,31 @@
+[
+  {
+    "user_id" : "12345",
+    "username" : "Yash",
+    "password" : "Yashjain@1244",
+    "email" : "yashsarsamkar@gmail.com",
+    "tickets" : [
+      {
+        "source" : "Ahmednagar",
+        "destination" : "Pune",
+        "date_of_travel" : "2026-28-04T18:30:00Z",
+        "train" : {
+          "train_id" : "bca",
+          "train_no" : 2026,
+          "seats" : [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+          ],
+          "stations" : {
+            "Ahmednagar" : "13:30:00",
+            "Shirur" : "15:00:00",
+            "Pune" : "16:30:00"
+          }
+        }
+      }
+    ]
+  }
+]
