@@ -15,7 +15,7 @@ public class UserBookingService {
 
     private List<User> userList;
 
-    private static final String USERS_PATH = "../localdb/users.json";
+    private static final String USERS_PATH = "src/main/java/train/ticket/booking/localdb/users.json";
 
     private static final ObjectMapper mapper = new ObjectMapper();
 
